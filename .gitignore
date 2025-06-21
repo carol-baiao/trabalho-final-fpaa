@@ -1,0 +1,26 @@
+# Diretórios e arquivos gerados automaticamente
+bin/
+obj/
+*.user
+*.suo
+*.vsp
+*.psess
+*.cache
+*.dbmdl
+
+# Logs
+*.log
+
+# Configs locais
+.vscode/
+.idea/
+*.launch.json
+
+# Build
+*.dll
+*.exe
+*.pdb
+
+# Outros
+*.vs/
+*.DS_Store
